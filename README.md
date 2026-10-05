@@ -219,11 +219,6 @@ Key features:
 
 # 9. Copyright
 
-<aside>
-🔒
-
-© 2026 Muhammad Sami. All Rights Reserved. 
-
-</aside>
+🔒 © 2026 Muhammad Sami. All Rights Reserved. 
 
 This project is provided for viewing and educational purposes only. Copying, reproducing, redistributing, modifying, or presenting any part of this work as your own is prohibited without prior permission.
