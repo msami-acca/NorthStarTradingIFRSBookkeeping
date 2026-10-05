@@ -145,54 +145,14 @@ The $2,000 arrangement fee is handled using a simplified treatment appropriate t
 
 A more advanced IFRS 9 treatment would consider transaction costs and the effective interest rate.
 
-### Bank Instead of Cash on Hand
-
-Bank/bank-sale transactions are recorded through the **Bank** account. No separate physical cash account is maintained.
-
 ### Customer Advance
 
 The customer advance is recorded as **Prepaid Income** for this project.
 
-### IFRS 9 ECL
-
-Expected credit loss calculations are not applied in this project because they are outside the current learning scope.
-
 ---
 
-# 5. Input → Accounting Process
+# 5. The Accounting Cycle
 
 These inputs are processed through the following accounting workflow:
 
-**Source Transactions**
-
-↓
-
-**General Journal**
-
-↓
-
-**General Ledger**
-
-↓
-
-**Month-End Adjustments**
-
-↓
-
-**Adjusted Trial Balance**
-
-↓
-
-**Financial Statements**
-
-↓
-
-**Closing Entries**
-
-↓
-
-**Post-Closing Trial Balance**
-
-↓
-
-**Ratio Analysis**
+**Source Transactions** → **General Journal** → **General Ledger** → **Month-End Adjustments** → **Adjusted Trial Balance** → **Financial Statements** → **Closing Entries** → **Post-Closing Trial Balance** → **Ratio Analysis**
