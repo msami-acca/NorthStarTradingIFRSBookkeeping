@@ -155,4 +155,4 @@ The customer advance is recorded as **Prepaid Income** for this project.
 
 These inputs are processed through the following accounting workflow:
 
-**Source Transactions** → **General Journal** → **General Ledger** → **Month-End Adjustments** → **Adjusted Trial Balance** → **Financial Statements** → **Closing Entries** → **Post-Closing Trial Balance** → **Ratio Analysis**
+**Source Transactions** → **General Journal** → **General Ledger** → **Month-End Adjustments** → **Adjusted Trial Balance** → **Financial Statements** → **Closing Entries** → **Post-Closing Trial Balance** → **Ratio Computation**
