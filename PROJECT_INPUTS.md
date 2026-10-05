@@ -20,63 +20,63 @@ This document contains the fictional source data, transactions, month-end adjust
 
 The following fictional transactions were recorded using the double-entry accounting system.
 
-1. **1 January:** Issued $500,000 ordinary shares for cash; proceeds deposited into the USD bank account.
+- **1 January:** Issued $500,000 ordinary shares for cash; proceeds deposited into the USD bank account.
 
-2. **2 January:** Paid $12,000 legal/professional costs directly related to company establishment.
+- **2 January:** Paid $12,000 legal/professional costs directly related to company establishment.
 
-3. **3 January:** Purchased office furniture for $24,000 through the bank. Useful life: 5 years; residual value: $0; straight-line depreciation.
+- **3 January:** Purchased office furniture for $24,000 through the bank. Useful life: 5 years; residual value: $0; straight-line depreciation.
 
-4. **4 January:** Purchased computer equipment for $30,000 through the bank. Useful life: 3 years; residual value: $0; straight-line depreciation.
+- **4 January:** Purchased computer equipment for $30,000 through the bank. Useful life: 3 years; residual value: $0; straight-line depreciation.
 
-5. **5 January:** Paid $8,000 office rent for January.
+- **5 January:** Paid $8,000 office rent for January.
 
-6. **6 January:** Paid $12,000 for 12 months of insurance commencing 1 January.
+- **6 January:** Paid $12,000 for 12 months of insurance commencing 1 January.
 
-7. **7 January:** Purchased stationery for $1,800 by bank transfer.
+- **7 January:** Purchased stationery for $1,800 by bank transfer.
 
-8. **8 January:** Purchased inventory costing $75,000 from Alpha Supplies on credit.
+- **8 January:** Purchased inventory costing $75,000 from Alpha Supplies on credit.
 
-9. **9 January:** Paid $3,000 freight/handling directly relating to the Alpha inventory purchase.
+- **9 January:** Paid $3,000 freight/handling directly relating to the Alpha inventory purchase.
 
-10. **10 January:** Purchased inventory costing $60,000 from Beta Distribution, paid through bank.
+- **10 January:** Purchased inventory costing $60,000 from Beta Distribution, paid through bank.
 
-11. **11 January — Customer A:** Credit sale $110,000; cost of inventory sold $63,000.
+- **11 January — Customer A:** Credit sale $110,000; cost of inventory sold $63,000.
 
-12. **12 January:** Returned inventory costing $8,000 to Alpha Supplies due to defects.
+- **12 January:** Returned inventory costing $8,000 to Alpha Supplies due to defects.
 
-13. **14 January:** Bank sale $55,000; cost of inventory sold $31,000.
+- **14 January:** Bank sale $55,000; cost of inventory sold $31,000.
 
-14. **15 January:** Purchased inventory costing $244,000 from Gamma Tech on credit.
+- **15 January:** Purchased inventory costing $244,000 from Gamma Tech on credit.
 
-15. **17 January — Customer B:** Credit sale $135,000; cost of inventory sold $78,000.
+- **17 January — Customer B:** Credit sale $135,000; cost of inventory sold $78,000.
 
-16. **18 January:** Paid Alpha Supplies $40,000 against its payable.
+- **18 January:** Paid Alpha Supplies $40,000 against its payable.
 
-17. **20 January:** Customer A paid $70,000 against its receivable.
+- **20 January:** Customer A paid $70,000 against its receivable.
 
-18. **21 January — Customer B return:** Goods with selling price $12,000 and cost $7,000 were returned. Goods are saleable and returned to inventory.
+- **21 January — Customer B return:** Goods with selling price $12,000 and cost $7,000 were returned. Goods are saleable and returned to inventory.
 
-19. **22 January:** Obtained a $150,000 three-year bank loan at 8% annual interest.
+- **22 January:** Obtained a $150,000 three-year bank loan at 8% annual interest.
 
-20. **23 January:** Bank sale $80,000; cost of inventory sold $46,000.
+- **23 January:** Bank sale $80,000; cost of inventory sold $46,000.
 
-21. **24 January:** Bank deducted a $2,000 loan arrangement fee from the loan proceeds.
+- **24 January:** Bank deducted a $2,000 loan arrangement fee from the loan proceeds.
 
-22. **25 January — Customer C:** Credit sale $150,000; cost of inventory sold $87,000.
+- **25 January — Customer C:** Credit sale $150,000; cost of inventory sold $87,000.
 
-23. **26 January:** Paid salaries of $18,000.
+- **26 January:** Paid salaries of $18,000.
 
-24. **27 January:** Customer B paid $90,000 against its receivable.
+- **27 January:** Customer B paid $90,000 against its receivable.
 
-25. **28 January:** Paid advertising expenses of $5,000.
+- **28 January:** Paid advertising expenses of $5,000.
 
-26. **29 January — Customer D:** Received $30,000 advance for goods to be supplied in February. For this project, the advance is recorded using **Prepaid Income**.
+- **29 January — Customer D:** Received $30,000 advance for goods to be supplied in February. For this project, the advance is recorded using **Prepaid Income**.
 
-27. **29 January:** Paid electricity/utilities of $4,500.
+- **29 January:** Paid electricity/utilities of $4,500.
 
-28. **30 January:** Paid bank charges of $2,000.
+- **30 January:** Paid bank charges of $2,000.
 
-29. **31 January:** Paid professional accounting fees of $6,000.
+- **31 January:** Paid professional accounting fees of $6,000.
 
 > **Note:** The project contains 29 dated source transactions. The month-end adjustments below are additional accounting inputs and are not included in this transaction count.
 
