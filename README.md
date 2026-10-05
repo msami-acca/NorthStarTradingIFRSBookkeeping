@@ -29,7 +29,7 @@ The objective was to build a complete accounting workflow rather than prepare is
 
 ### Accounting Workflow
 
-**Source Transactions → General Journal → General Ledger → Adjustments → Adjusted Trial Balance → Financial Statements → Closing Entries → Post-Closing Trial Balance → Ratio Analysis**
+**Source Transactions → General Journal → General Ledger → Adjustments → Adjusted Trial Balance → Financial Statements → Closing Entries → Post-Closing Trial Balance → Ratio Computation**
 
 The complete source transactions, adjustment inputs and project assumptions are documented separately in **[PROJECT_INPUTS.md](PROJECT_INPUTS.md)**.
 
