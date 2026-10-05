@@ -122,10 +122,9 @@ The following fictional transactions were recorded using the double-entry accoun
 
 Following financial statements have been prepared throughout the project:
 
-1. Statement of Profit or loss (Income Statement)
-2. Statement of Financial Position (Balance Sheet)
-3. Statement of Changes in Equity
-4. Statement of Cash Flows
+1. SOPL - Statement of Profit or loss (Income Statement)
+2. SOFP - Statement of Financial Position (Balance Sheet)
+3. SOCF - Statement of Cash Flows
 
 # 5. Closing Entries
 
