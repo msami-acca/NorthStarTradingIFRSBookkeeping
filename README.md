@@ -40,25 +40,25 @@ The complete source transactions, adjustment inputs and project assumptions are 
 ### 1. Statement of Profit or Loss
 Summarises the company's revenue, expenses and resulting profit for the period.
 
-![SOPL](SOPL.png)
+![SOPL](Images/SOPL.png)
 
 ### 2. Statement of Financial Position
 
 Presents the company's assets, liabilities and equity at 31 January 2026.
 
-![SOFP](SOFP.png)
+![SOFP](Images/SOFP.png)
 
 ### 3. Statement of Cash Flows
 
 Summarises cash movements during the period across operating, investing and financing activities.
 
-![SOCF](SOCF.png)
+![SOCF](Images/SOCF.png)
 
 ### 4. Ratio Computation
 
 Uses the completed financial statements to calculate key financial ratios.
 
-![Ratios](Ratios.png)
+![Ratios](Images/Ratios.png)
 
 ---
 
