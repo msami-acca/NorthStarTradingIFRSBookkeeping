@@ -40,7 +40,7 @@ The complete source transactions, adjustment inputs and project assumptions are 
 ### 1. Statement of Profit or Loss
 Summarises the company's revenue, expenses and resulting profit for the period.
 
-![SOPL](Images/SOPL.png)
+![SOPL](Images/SOP.png)
 
 ### 2. Statement of Financial Position
 
